@@ -1,11 +1,19 @@
-# Responsive HTML Table With Pure CSS - Web Design UI Design
-![HTML Table UI Design](images/screenshot.jpg)
-Without using CSS frameworks we'll build **Responsive HTML Table**. So, with pure CSS I'll show you how to create **Glassmorphism Responsive HTML Table**. Let's take UI design to next level.
+# 🔐 Login Page
 
-Code written by:
-👨🏻‍⚕️ Coding Design (Jeet Saru)
+A modern, responsive, and beautifully designed login page built for use in web applications. This project focuses on clean UI/UX, accessibility, and ease of integration into existing projects.
 
-> You can do whatever you want with the code. However if you love my content, 
-> you can **SUBSCRIBED** my YouTube Channel.
+## 🌟 Features
 
-🌎link: www.youtube.com/codingdesign 
+- ✅ Responsive layout (mobile-first)
+- 🎨 Modern and aesthetic UI
+- 🌗 Light/Dark theme ready
+- 🔒 Secure input fields with visibility toggle (optional)
+- 🧠 Easy to customize and extend
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/iampranaypani/login-page.git
+cd login-page
